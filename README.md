@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hello!
+
+Trying git for the first time.
